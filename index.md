@@ -6,6 +6,12 @@
 <h1>Hello world!</h1>
 <p>First code example</p>
 ```
+## My task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
 
 
