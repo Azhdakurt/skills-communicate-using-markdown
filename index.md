@@ -1,4 +1,6 @@
 # My first Markdown header
-![Placeholder image showing a simple banner](https://via.placeholder.com/600x300)
+![Learning to code illustration](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600)
+
+
 
 
